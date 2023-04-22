@@ -10,3 +10,8 @@ H1DingNotifier是一款开源工具，实时监控HackerOne报告并自动推送
 2. 将源代码中的 accesstoken 替换为您自己的，使用 Python3.8.X 在后台运行。您可以直接输入 `python3 h1_notifier.py` & 或在 tmux 中运行。
 
 PS: 若提示缺少库，请根据提示使用 `pip` 进行安装。
+
+# Thanks
+
+chatgpt: https://chat.openai.com/
+@disclosedh1: http://h1.nobbd.de/
